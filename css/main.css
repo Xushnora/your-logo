@@ -149,6 +149,11 @@ body{
     border-radius: 10px;
 
 }
+
+.input-user:focus{
+    
+}
+
 .input-user:not(:last-child){
     margin-bottom: 24px;
 }
