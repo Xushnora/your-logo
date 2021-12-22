@@ -150,8 +150,8 @@ body{
 
 }
 
-.input-user:focus{
-    
+input:focus{
+    outline: 1px solid #3737ec96;
 }
 
 .input-user:not(:last-child){
